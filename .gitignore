@@ -1,0 +1,6 @@
+#Ignore the backup folder in wp-content
+wp-content/backups-dup-lite/*
+# !wp-content/backups-dup-lite/tmp/index.php
+# !wp-content/backups-dup-lite/.htaccess
+# !wp-content/backups-dup-lite/index.php
+# !wp-content/backups-dup-lite/robots.txt
